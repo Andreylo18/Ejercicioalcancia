@@ -1,9 +1,8 @@
 import java.util.Scanner;
 
 // Andrey Esteban Lopez Guayazan
-//301T
-//Programacion II
-//Programa alcancia
+// Ejercicio Alcancia
+// 20-08-2024
 
 
 
