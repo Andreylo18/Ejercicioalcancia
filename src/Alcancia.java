@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+// Andrey Esteban Lopez Guayazan
+//301T
+//Programacion II
+//Programa alcancia
+
+
+
 public class Alcancia {
     public static void main(String[] args) {
         int cantidad;
